@@ -1,3 +1,6 @@
-/.vscode
-/bin
-/obj
+# Visual Studio Code directories
+.vscode/
+
+# C# build artifacts
+bin/
+obj/
